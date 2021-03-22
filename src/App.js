@@ -9,7 +9,7 @@ import Feature1 from './components/Feature1';
 import Footer from './components/Footer';
 
 
-function App() {
+function App(k) {
   return (
     <Router>
       <GlobalStyle />
