@@ -40,7 +40,7 @@ export const SocialLogo = styled(Link)`
   display: flex;
   align-items: center;
   margin-bottom: 16px;
-  font-weight: ;
+  font-weight: bold ;
 `;
 
 export const SocialIcons = styled.div`
